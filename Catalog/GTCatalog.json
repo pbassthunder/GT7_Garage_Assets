@@ -5128,5 +5128,41 @@
     "detailURL": "https://www.gran-turismo.com/us/gt7/carlist/id/car3542",
     "imageURL": "https://www.gran-turismo.com/common/dist/gt7/carlist/car_thumbnails/car3542.png",
     "logoURL": "https://www.gran-turismo.com/common/dist/gt7/carlist/tuner_logos/light/tnr159.png"
+  },
+  {
+    "gtID": "car3395",
+    "make": "Caterham",
+    "logoID": "tnr80",
+    "name": "Seven Superlight R500 '08",
+    "detailURL": "https://www.gran-turismo.com/us/gt7/carlist/id/car3395",
+    "imageURL": "https://www.gran-turismo.com/common/dist/gt7/carlist/car_thumbnails/car3395.png",
+    "logoURL": "https://www.gran-turismo.com/common/dist/gt7/carlist/tuner_logos/light/tnr80.png"
+  },
+  {
+    "gtID": "car3610",
+    "make": "Hyundai",
+    "logoID": "tnr16",
+    "name": "IONIQ 6 N '25",
+    "detailURL": "https://www.gran-turismo.com/us/gt7/carlist/id/car3610",
+    "imageURL": "https://www.gran-turismo.com/common/dist/gt7/carlist/car_thumbnails/car3610.png",
+    "logoURL": "https://www.gran-turismo.com/common/dist/gt7/carlist/tuner_logos/light/tnr16.png"
+  },
+  {
+    "gtID": "car3612",
+    "make": "Toyota",
+    "logoID": "tnr43",
+    "name": "Chaser Tourer V '97",
+    "detailURL": "https://www.gran-turismo.com/us/gt7/carlist/id/car3612",
+    "imageURL": "https://www.gran-turismo.com/common/dist/gt7/carlist/car_thumbnails/car3612.png",
+    "logoURL": "https://www.gran-turismo.com/common/dist/gt7/carlist/tuner_logos/light/tnr43.png"
+  },
+  {
+    "gtID": "car3611",
+    "make": "Toyota",
+    "logoID": "tnr43",
+    "name": "Mark II Tourer V '97",
+    "detailURL": "https://www.gran-turismo.com/us/gt7/carlist/id/car3611",
+    "imageURL": "https://www.gran-turismo.com/common/dist/gt7/carlist/car_thumbnails/car3611.png",
+    "logoURL": "https://www.gran-turismo.com/common/dist/gt7/carlist/tuner_logos/light/tnr43.png"
   }
 ]
